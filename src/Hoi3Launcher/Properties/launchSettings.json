@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Hoi3Launcher": {
+      "commandName": "Project",
+      "workingDirectory": "E:\\Games\\Hearts of Iron III"
+    }
+  }
+}
