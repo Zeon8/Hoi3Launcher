@@ -10,4 +10,4 @@ Simple launcher for HOI III game.
 Download latest release from [Releases](https://github.com/Zeon8/Hoi3Launcher/releases) and extract all files to the game folder.
 
 ## Screenshots
-![Image](https://github.com/user-attachments/assets/37e981b4-04f7-45b6-85a7-c206f0d153a5)
+![Image](https://github.com/user-attachments/assets/e8ac20a1-cfd6-4616-acca-15753bebcf13)
